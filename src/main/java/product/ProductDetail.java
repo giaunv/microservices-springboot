@@ -1,3 +1,5 @@
+package product;
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
